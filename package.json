@@ -1,6 +1,6 @@
 {
   "name": "unordered-parallel-transform",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Unordered version of parallel-transform",
   "main": "index.js",
   "dependencies": {
